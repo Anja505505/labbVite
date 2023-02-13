@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Fotleds Rehab",
+        "price": "500kr per gång",
+        "summary": "För dig som skadat eller brytit fotleden, gäller inre samt yttre."
+    },
+    {
+        "id": "2",
+        "name": "Vrist Rehab",
+        "price": "400kr per gång",
+        "summary": "För dig som har svaga vrister eller skadat vristen."
+    },
+    {"id": "3",
+    "name": "Led Rehab",
+    "price": "550kr per gång",
+    "summary": "För dig som har ömma eller stela leder."
+
+    },
+    {"id": "4",
+    "name": "Rygg Rehab",
+    "price": "800kr per gång",
+    "summary": "För dig som har ont i ryggkotorna."
+
+    },
+    {
+        "id": "5",
+        "name": "Deep Tissue Massage",
+        "price": "700kr per gång",
+        "summary": "För dig med extrema smärtor i muskler."
+    },
+    {
+        "id": "6",
+        "name": "Sport Rehab",
+        "price": "Konsultation för pris",
+        "summary": "För dig med en sportskada."
+    },
+    {
+        "id": "7",
+        "name": "Knä Rehab",
+        "price": "500kr per gång",
+        "summary": "För dig som har ont i knän."
+    },
+    {
+        "id": "8",
+        "name": "Nack Rehab",
+        "price": "500kr per gång",
+        "summary": "För dig med öm eller stel nacke."
+    },
+    {
+        "id": "9",
+        "name": "Armbågs Rehab",
+        "price": "300kr per gång",
+        "summary": "För dig som brytit armen och fortfarande har ont."
+    },
+    {
+        "id": "10",
+        "name": "Övrig Rehab",
+        "price": "Konsultation för pris",
+        "summary": "För övriga smärtor."
+    }
+]
